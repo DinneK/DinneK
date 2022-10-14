@@ -1,6 +1,11 @@
-### Hi there 👋
+![Linkedin Header2](https://user-images.githubusercontent.com/63877492/195909499-ad6f7e2e-2711-4011-8fa5-f82add0c39d4.png)
 
-[![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header-1.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
+ <a href="mailto:dinne22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dinne-kopelevich-174584a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
 
 <!--
 **DinneK/DinneK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
