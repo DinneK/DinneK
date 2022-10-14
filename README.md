@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header-1.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
+
 <!--
 **DinneK/DinneK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
