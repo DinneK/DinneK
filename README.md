@@ -1,5 +1,9 @@
 ![Linkedin Header2](https://user-images.githubusercontent.com/63877492/195909499-ad6f7e2e-2711-4011-8fa5-f82add0c39d4.png)
 
+<p align="center">
+Hi! I'm Dinne and currently, I am studying 🌱 front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
+</p>
+
  <a href="mailto:dinne22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
